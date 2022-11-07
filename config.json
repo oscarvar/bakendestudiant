@@ -1,0 +1,8 @@
+{
+  "url-backend": "127.0.0.1",
+  "port": 9999,
+
+  "data-db-connection":"mongodb+srv://usergrupo29:1234@registraduria.nfle1hw.mongodb.net/?retryWrites=true&w=majority" ,
+  "name-db": "bd-registro-academico"
+}
+
