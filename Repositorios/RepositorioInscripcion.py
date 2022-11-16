@@ -1,4 +1,4 @@
 from Repositorios.InterfaceRepositorio import InterfaceRepositorio
-from Modelos.Inscripicion import Inscripcion
+from Modelos.Inscripcion import Inscripcion
 class RepositorioInscripcion (InterfaceRepositorio[Inscripcion]):
     pass
